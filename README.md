@@ -1,3 +1,8 @@
+[Visit Our Website](https://your-site.com)  
+![Our Logo](https://your-site.com/logo.png)
+
+<!-- AUTO-README-UPDATE -->
+
 <a href="https://browsermcp.io">
   <img src="./.github/images/banner.png" alt="Browser MCP banner">
 </a>
@@ -30,3 +35,8 @@ This repo contains all the core MCP code for Browser MCP, but currently cannot y
 ## Credits
 
 Browser MCP was adapted from the [Playwright MCP server](https://github.com/microsoft/playwright-mcp) in order to automate the user's browser rather than creating new browser instances. This allows using the user's existing browser profile to use logged-in sessions and avoid bot detection mechanisms that commonly block automated browser use.
+
+
+---
+
+Thank you @BrowserMCP
